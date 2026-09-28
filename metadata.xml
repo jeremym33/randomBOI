@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>RandomBOI - Unlock Randomizer</name>
+    <directory>randomboi</directory>
+    <id></id>
+    <description>Randomise les déblocages d'objets : chaque objet que vous avez débloqué vous donne accès à un autre objet, tiré au hasard. Les objets nécessaires à la progression (Polaroid, Negative, Key Pieces, Knife Pieces, Dad's Note, Red Key, Shovel...) ne sont jamais touchés. Compatible Repentance+.</description>
+    <version>1.0.0</version>
+    <visibility>Private</visibility>
+    <tag id="Items"/>
+    <tag id="Tweaks"/>
+    <tag id="Lua"/>
+</metadata>
